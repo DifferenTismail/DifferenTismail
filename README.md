@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @DifferenTismail
+- 👀 My hobbies are watching formula, traveling and read a book
+- 🌱 I'm currently learning php and german
+- 💞️ I want to be the best in the industry...
+- 📫 You can reach me via e-mail!
+- ismailbaran04@gmail.com
