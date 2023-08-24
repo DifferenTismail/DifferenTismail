@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=DifferenTismail&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hi, I'm İsmail Baran, my hobbies are watching formula, traveling and read a book.<br>I'm currently learning php and german, I want to be the best in the industry...<br>You can reach me via e-mail!<br>ismailbaran04@gmail.com
 
@@ -13,6 +14,6 @@ Hi, I'm İsmail Baran, my hobbies are watching formula, traveling and read a boo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DifferenTismail&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DifferenTismail&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
