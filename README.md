@@ -1,3 +1,5 @@
+<div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=DifferenTismail&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 # 💫 About Me:
@@ -32,3 +34,5 @@ Feel free to reach out to me via e-mail at ismailbaran04@gmail.com.
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
