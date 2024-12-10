@@ -5,9 +5,9 @@
 # Hi, I'm İsmail Baran! 👋  
 
 ### 🚀 About Me  
-- 🏎️ **Hobbies:** Watching Formula 1, traveling, and reading books.  
-- 💻 **Currently Learning:** JavaScript, C#, and German.  
-- 🎯 **Goal:** To become a top professional in the tech industry.  
+  🏎️ **Hobbies:** Watching Formula 1, traveling, and reading books.  
+  💻 **Currently Learning:** JavaScript, C#, and German.  
+  🎯 **Goal:** To become a top professional in the tech industry.  
 
 ### 💼 Contact  
 Feel free to reach out to me via:  
