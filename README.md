@@ -2,10 +2,19 @@
   
 [![](https://visitcount.itsvg.in/api?id=DifferenTismail&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-# 💫 About Me:
-Hi, I'm İsmail Baran! My hobbies include watching Formula 1, traveling, and reading books.<br> 
-I'm currently learning JavaScript, C#, and German. My goal is to become a top professional in the industry.<br>
-Feel free to reach out to me via e-mail at ismailbaran04@gmail.com.
+# Hi, I'm İsmail Baran! 👋  
+
+### 🚀 About Me  
+- 🏎️ **Hobbies:** Watching Formula 1, traveling, and reading books.  
+- 💻 **Currently Learning:** JavaScript, C#, and German.  
+- 🎯 **Goal:** To become a top professional in the tech industry.  
+
+### 💼 Contact  
+Feel free to reach out to me via:  
+📧 Email: [ismailbaran04@gmail.com](mailto:ismailbaran04@gmail.com)  
+
+### 🌟 Follow My Journey  
+Explore my projects and contributions here on GitHub. Let's connect and collaborate! 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ismailbarankarasu) 
